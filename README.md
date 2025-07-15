@@ -19,8 +19,6 @@ A modern movie search and discovery app built with React, Vite, Tailwind CSS, an
 ### Prerequisites
 
 - Node.js (v16 or higher recommended)
-- An Appwrite instance (self-hosted or [Appwrite Cloud](https://cloud.appwrite.io/))
-- API key from [The Movie Database (TMDb)](https://www.themoviedb.org/documentation/api)
 
 ### Installation
 
@@ -33,16 +31,7 @@ A modern movie search and discovery app built with React, Vite, Tailwind CSS, an
    ```bash
    npm install
    ```
-3. **Set up environment variables:**
-   Create a `.env` file in the project root with the following variables:
-   ```env
-   VITE_API_KEY=your_tmdb_api_key
-   VITE_APPWRITE_PROJECT_ID=your_appwrite_project_id
-   VITE_DATABASE_ID=your_appwrite_database_id
-   VITE_COLLECTION_ID=your_appwrite_collection_id
-   VITE_APPWRITE_ENDPOINT=https://your-appwrite-endpoint/v1
-   ```
-4. **Start the development server:**
+3. **Start the development server:**
    ```bash
    npm run dev
    ```
