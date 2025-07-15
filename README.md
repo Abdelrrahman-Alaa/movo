@@ -12,7 +12,8 @@ A modern movie search and discovery app built with React, Vite, Tailwind CSS, an
 
 ## Screenshots
 
-> _Add screenshots here if desired._
+![Movo Screenshot 1](public/screenshots/Movo%201.png)
+![Movo Screenshot 2](public/screenshots/Movo%202.png)
 
 ## Getting Started
 
